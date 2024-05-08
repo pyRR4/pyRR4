@@ -1,6 +1,8 @@
 # Hi 👋, I'm Igor/pyRR4
 ## A baller🏀, gamer🎮 and almost dev💻
 
+###Studying applied computer science at Wroclaw University of Science and Technology
+
 ### Connect with me:
 ![](https://dcbadge.limes.pink/api/shield/333940530390106112?theme=discord-inverted)
 
