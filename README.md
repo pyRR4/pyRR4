@@ -1,5 +1,5 @@
 # Hi 👋, I'm Igor
-## A baller🏀🏀, gamer🎮🎮 and almost dev💻💻
+## A baller🏀, gamer🎮 and almost dev💻
 
 ### Connect with me:
 ![](https://dcbadge.limes.pink/api/shield/333940530390106112?theme=discord-inverted)
