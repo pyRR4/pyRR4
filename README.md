@@ -2,7 +2,7 @@
 ## A baller, gamer and almost dev
 
 ### Connect with me:
-![](https://dcbadge.limes.pink/api/shield/333940530390106112)
+![](https://dcbadge.limes.pink/api/shield/333940530390106112?style=flat&?theme=discord-inverted)
 
 ### Languages and Tools:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
