@@ -1,10 +1,12 @@
-### ✨✨✨Welcome on my github profile!
-My name is Igor and I'm currently studying applied computer science at Wroclaw University of Science and Technology.
+<h1 align="center">Hi 👋, I'm Igor</h1>
+<h3 align="center">A baller, gamer and almost dev</h3>
 
-📖I'm currently learning Java, JavaSpring and Python.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-:information_desk_person:You can catch me on discord: pyrr4
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <!--
 **pyRR4/pyRR4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
