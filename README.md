@@ -1,4 +1,9 @@
-### Hi there 👋
+### ✨✨✨Welcome on my github profile!
+My name is Igor and I'm currently studying applied computer science at Wroclaw University of Science and Technology.
+
+📖I'm currently learning Java, JavaSpring and Python.
+
+:information_desk_person:You can catch me on discord: pyrr4
 
 <!--
 **pyRR4/pyRR4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
