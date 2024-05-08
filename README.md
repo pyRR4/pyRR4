@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[Profil na Discordzie](https://discordapp.com/users/333940530390106112)
 ![](https://dcbadge.limes.pink/api/shield/333940530390106112)
 </p>
 
