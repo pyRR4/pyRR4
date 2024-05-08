@@ -6,10 +6,10 @@
 ![](https://dcbadge.limes.pink/api/shield/333940530390106112)
 
 ### Languages and Tools:
-[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
-[![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
-[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
-[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg =30x30)](https://git-scm.com/)
+[![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg =30x30)](https://www.java.com)
+[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg =30x30)](https://www.linux.org/)
+[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =30x30)](https://www.python.org)
 <!--
 **pyRR4/pyRR4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
