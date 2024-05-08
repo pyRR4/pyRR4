@@ -2,6 +2,7 @@
 ## A baller, gamer and almost dev
 
 ### Connect with me:
+![](https://dcbadge.limes.pink/api/shield/333940530390106112)
 [![](https://e7.pngegg.com/pngimages/842/992/png-clipart-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-thumbnail.png)](https://discordapp.com/users/333940530390106112)
 
 ### Languages and Tools:
