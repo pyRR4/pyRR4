@@ -1,5 +1,5 @@
 # Hi 👊👊 
-## I'm Igor/pyRR4 - a baller🏀, gamer🎮 and soon dev💻
+## I'm Igor/pyRR4 - a baller🏀, a gamer🎮 and soon a dev💻
 
 ### Right now studying applied computer science at Wroclaw University of Science and Technology
 
