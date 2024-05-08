@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Mój discord](https://e7.pngegg.com/pngimages/842/992/png-clipart-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-thumbnail.png)](https://discordapp.com/users/333940530390106112)
+![](https://dcbadge.limes.pink/api/shield/333940530390106112)
 </p>
 
 
