@@ -2,8 +2,8 @@
 ## A baller, gamer and almost dev
 
 ### Connect with me:
-[Profil na Discordzie](https://discordapp.com/users/333940530390106112)
 ![](https://dcbadge.limes.pink/api/shield/333940530390106112)
+[Profil na Discordzie](https://discordapp.com/users/333940530390106112)
 
 ### Languages and Tools:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
