@@ -3,8 +3,6 @@
 
 ### Right now studying applied computer science at Wroclaw University of Science and Technology
 
-### Connect with me:
-![](https://dcbadge.limes.pink/api/shield/333940530390106112?theme=discord-inverted)
 
 ### Languages and Tools:
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/></a>
