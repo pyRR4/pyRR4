@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pyRR4/pyRR4/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/pyRR4/pyRR4/output/snake.svg](https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg0MTE2OTMsIm5iZiI6MTcyODQxMTM5MywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NDAtZGFkNWQwMjUtOTFjMy00M2I5LTlhM2QtMWM5MjY2Zjc3Y2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA4VDE4MTYzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0NTdiNzE0ZDU5MjlkNjY4MGY0MGNlYjkxNDdiYzJkNDY3NWMzNTdmMTA2NDkzNjg1M2JhYjc1OGE0YTA2ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MzTmB1RI902NRdBDUnW3iZh_ql__hcPfAN7qHWZ371Y)" alt="gif" />
 
 ###
 <!--
