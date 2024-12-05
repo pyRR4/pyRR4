@@ -40,7 +40,9 @@
 </p>
 
 
-<iframe src="https://giphy.com/embed/gPzleMaqmcUIhShT4S" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nba-golden-state-warriors-nba-regular-season-basketball-gPzleMaqmcUIhShT4S">via GIPHY</a></p>
+![Golden State Warriors GIF](https://media.giphy.com/media/gPzleMaqmcUIhShT4S/giphy.gif)
+
+[Źródło: Giphy](https://giphy.com/gifs/nba-golden-state-warriors-nba-regular-season-basketball-gPzleMaqmcUIhShT4S)
 
 ###
 <!--
